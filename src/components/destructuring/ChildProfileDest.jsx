@@ -10,8 +10,6 @@
 
 
 
-// export default ChildProfileDest;
-
 // function ChildProfileDest({ user }) {
 //   const { firstName, lastName, email } = user;
 
@@ -23,8 +21,6 @@
 //     </>
 //   );
 // }
-
-// export default ChildProfileDest;
 
 
 

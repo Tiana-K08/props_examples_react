@@ -1,6 +1,7 @@
 import ParentGreeting from './greeting/ParentGreeting.jsx';
 import ParentProfile from './profile/ParentProfile.jsx';
 import ParentProfileDest from './destructuring/ParentProfileDest.jsx';
+import ParentButton from './function/ParentButton.jsx';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <ParentGreeting />
       <ParentProfile />
       <ParentProfileDest />
+      <ParentButton />
     </>
   )
 }
